@@ -110,6 +110,7 @@ public class Ex02 {
             // mostrar na tela valor inválido
             System.out.print("Valor inserido Inválido");
         }
+        input.close();
   }
     
 }
